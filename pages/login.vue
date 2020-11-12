@@ -13,7 +13,7 @@
         Close
       </v-btn>
     </v-snackbar>
-<v-content>
+<v-main>
 <v-container
 class="fill-height"
 >
@@ -58,7 +58,7 @@ required
 </v-col>
 </v-row>
 </v-container>
-</v-content>
+</v-main>
 </v-app>
 </template>
 
